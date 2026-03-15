@@ -3,9 +3,6 @@
 require("../../core/functions.php");
 require("../../core/validation.php");
 if (requestMethod('POST')) {
- var_dump($_POST) ."<br>";
- var_dump(preg_match("/^\+[0-9 ( ) -]+$/", $_POST['phone']));
- exit();
     foreach ($_POST as $field => $value) {
         $$field = fieldSanitization($value);
     }
