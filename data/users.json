@@ -1,0 +1,154 @@
+[
+    {
+        "user_id": 2,
+        "name": "omar",
+        "email": "omar@gmail.com",
+        "phone": "1235546",
+        "password": "$2y$10$vqT4NUnZiYALfFcVDyN.iuStF7Cq2B8TX99qMasFXbgjX5SX2UWZ.",
+        "role": "admin"
+    },
+    {
+        "user_id": 3,
+        "name": "ahmed",
+        "email": "ahmed@gmail.com",
+        "phone": "01227199290",
+        "password": "$2y$10$k1xNeUcT1Xv0DKzcOkBN.eXyI7XPcv6s\/47Dolb7tGbJZQBQx2Rcq",
+        "role": "user"
+    },
+    {
+        "user_id": 4,
+        "name": "amir",
+        "email": "amir@gmail.com",
+        "phone": "01227199290",
+        "password": "$2y$10$mEgu5ffS3hXa\/2iDv5CwsOCKikRoWSZdFnxvq7R2ceVGcnGCLJ7LG",
+        "role": "admin"
+    },
+    {
+        "user_id": 5,
+        "name": "amr",
+        "email": "amr@gmail.com",
+        "phone": "01033783512",
+        "password": "$2y$10$mEgu5ffS3hXa\/2iDv5CwsOCKikRoWSZdFnxvq7R2ceVGcnGCLJ7LG",
+        "role": "user"
+    },
+    {
+        "user_id": 6,
+        "name": "islam",
+        "email": "islam@gmail.com",
+        "phone": "01227199290",
+        "password": "$2y$10$H4zle4gXpVGqusYPiWQ6D.qIGjIYipCmKYgT7nG6wV6XHzlwwC3ki",
+        "role": "admin"
+    },
+    {
+        "user_id": 8,
+        "name": "zeyad",
+        "email": "zeyad@gmail.com",
+        "phone": "01023555155",
+        "password": "$2y$10$qYc92UQz9PKEcZS20iLXTuBZtgxzXlo\/lDb3B38usHLTgsiDiR\/G6",
+        "role": "user"
+    },
+    {
+        "user_id": 9,
+        "name": "Abdallh Elzayat",
+        "email": "abdallh@gmail.com",
+        "phone": "01212484233",
+        "password": "$2y$10$j0siq5lOqvvacFkN4KNyu.EBcVSh5gACVObB74yPftJ6KivNA3KGC",
+        "role": "user"
+    },
+    {
+        "user_id": 10,
+        "name": "zeyad mohamed",
+        "email": "zeyadmohamed1423@gmail.com",
+        "phone": "01063760442",
+        "password": "$2y$10$c5PV\/\/GWvnQplJV0x84mk.F0orGxn9vvFORu1dju2gKlL\/Zq\/jdFS",
+        "role": "admin"
+    },
+    {
+        "user_id": 11,
+        "name": "eman",
+        "email": "eman@gmail.com",
+        "phone": "999",
+        "password": "$2y$10$8sQpacjMwVJRyvi\/SOpmVu2vUl7czfG\/do4UXBKRFcdQSzrkfoUYa",
+        "role": "user"
+    },
+    {
+        "user_id": 12,
+        "name": "Alexandra Snow",
+        "email": "zazaliw@mailinator.com",
+        "phone": "+11315485666",
+        "password": "$2y$10$nbYBq3CBvEaSjjAZplsunepxYO.x5qgFtq95lq\/GSnjpDc7k8pq2.",
+        "role": "user"
+    },
+    {
+        "user_id": 13,
+        "name": "Thomas Rocha",
+        "email": "diryzivy@mailinator.com",
+        "phone": "01111111111",
+        "password": "$2y$10$6CJ3f\/IiMIILCEb3ZHVJAu3X2ovnfQg1kHo7lPCOm9S7fPp1z5EDu",
+        "role": "user"
+    },
+    {
+        "user_id": 14,
+        "name": "Badwy Mohamed",
+        "email": "m.badw53@gmail.com",
+        "phone": "01022791210",
+        "password": "$2y$10$eJLR22EkDSNTanfP4hdQA.7UIOk5WDYd7p7SE8koYkB3nIWc0u\/Oy",
+        "role": "user"
+    },
+    {
+        "user_id": 15,
+        "name": "amir",
+        "email": "amir19@gmail.com",
+        "phone": "0123654789",
+        "password": "$2y$10$F3JZPJ\/mwCMDRxj4j2NclOPx2EaLMxWhFYAaQgVLCKdRY.BKkaTzK",
+        "role": "admin"
+    },
+    {
+        "user_id": 16,
+        "name": "momen",
+        "email": "momen@gmail.com",
+        "phone": "01035468750",
+        "password": "$2y$10$gO7zHa5GmA9bo8Md9tdqjOjZdjh2gKgajLdhGIJ8lwwRVp3g39k06",
+        "role": "user"
+    },
+    {
+        "user_id": 17,
+        "name": "Selma Mccall",
+        "email": "malyse@mailinator.com",
+        "phone": "+9664419864",
+        "password": "$2y$10$AH4tevkuW84z\/dHeP6YihOOfaPnyh2dQJy9KOK1klquLbl\/MAcnFO",
+        "role": "user"
+    },
+    {
+        "user_id": 18,
+        "name": "Linda Copeland",
+        "email": "xymymytyg@mailinator.com",
+        "phone": "+966 691-401-1888",
+        "password": "$2y$10$43ShnMbEdl912vzO3kjq1efOn\/4myxBb5lalmZkkB3fCpD1OskRAy",
+        "role": "user"
+    },
+    {
+        "user_id": 19,
+        "name": "Linda Copeland",
+        "email": "xymymytyg@mailinator.com",
+        "phone": "+966 691-401-1888",
+        "password": "$2y$10$Qti\/GZncmHMbn.7Lq2AZG.UG6AWtFCb9Xas5yTxrDHfKPEMpua8Q.",
+        "role": "user"
+    },
+    {
+        "user_id": 20,
+        "name": "Arthur Henson",
+        "email": "rywaliruri@mailinator.com",
+        "phone": "+1 (373) 927-8039",
+        "password": "$2y$10$vtdbJSrWtcrRWmyJdf3VQuHP32fNLo6k\/rVs7q3NC0QZ0PAFCIAcy",
+        "role": "user"
+    },
+    {
+        "user_id": 21,
+        "name": "Arthur Henson",
+        "email": "rywaliruri@mailinator.com",
+        "phone": "+1 (373) 927-8039",
+        "password": "$2y$10$XDGGSL2GbytUj.pD7uPqr.o9KpCRwIrC.oW\/oordCEEvZqQofCpQK",
+        "role": "user"
+    }
+]

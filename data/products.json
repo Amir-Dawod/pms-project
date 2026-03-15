@@ -1,0 +1,26 @@
+[
+    {
+        "id": 2,
+        "title": "mackbook",
+        "price": "15000",
+        "imageName": "macbook.png",
+        "imageTmpName": "\/home\/uploads\/phpnXCEp6",
+        "imageSize": 819788
+    },
+    {
+        "id": 3,
+        "title": "mouse",
+        "price": "150",
+        "imageName": "mouse.webp",
+        "imageTmpName": "\/home\/uploads\/phpBLxcbX",
+        "imageSize": 52904
+    },
+    {
+        "id": 4,
+        "title": "macBook",
+        "price": "20000",
+        "imageName": "51ewMKU7rwL._AC_SY300_SX300_QL70_ML2_.jpg",
+        "imageTmpName": "C:\\Users\\w\\AppData\\Local\\Temp\\phpFB6E.tmp",
+        "imageSize": 3431
+    }
+]
